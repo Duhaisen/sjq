@@ -1,0 +1,356 @@
+20:38:31.428 [main] INFO  com.sjq.FeilvbinDingdan - 菲律宾订单生成软件--开始运行
+20:38:32.424 [main] INFO  com.sjq.FeilvbinDingdan - 读取产品信息完成 count:1225
+20:38:32.443 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾.xlsx start
+20:38:32.444 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾.xlsx
+20:38:32.503 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾.xlsx 的数据总数:59
+20:38:32.504 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 155/65 R13 
+20:38:32.505 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 155/65 R13 
+20:38:32.505 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/65 R13 
+20:38:32.505 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/65 R13 
+20:38:32.505 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 155/70 R13 
+20:38:32.505 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 155/70 R13 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/65 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/65 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/65 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/65 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/70 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/70 R14 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/50 R15 
+20:38:32.506 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/50 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/50 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/50 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/50 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/50 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/55 R15 
+20:38:32.507 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/55 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/60 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/60 R15 
+20:38:32.508 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/65 R15 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/55 R16 
+20:38:32.509 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/55 R16 
+20:38:32.510 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/55 R16 
+20:38:32.510 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/55 R16 
+20:38:32.510 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/60 R16 
+20:38:32.510 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/60 R16 
+20:38:32.510 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/60 R16 
+20:38:32.511 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/60 R16 
+20:38:32.511 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/65 R16 
+20:38:32.511 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/65 R16 
+20:38:32.511 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 215/65 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 215/65 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 215/60 R17 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 215/60 R17 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 195/50 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 195/50 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/50 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/50 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/55 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/55 R16 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/45 R17 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/45 R17 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/50 R17 
+20:38:32.512 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/50 R17 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 215/50 R17 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 215/50 R17 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 215/40 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 215/40 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 235/50 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 235/50 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 225/55 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 225/55 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 235/55 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 235/55 R18 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 235/55 R19 
+20:38:32.513 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 235/55 R19 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/35 R20 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/35 R20 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA Sport ARV7 285/40 R22 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA Sport ARV7 285/40 R22 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 215/70 R16 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 215/70 R16 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Traverso ARV H/T 225/70 R16 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Traverso ARV H/T 225/70 R16 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Traverso ARV H/T 265/70 R16 
+20:38:32.514 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Traverso ARV H/T 265/70 R16 
+20:38:32.515 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 235/60 R18 
+20:38:32.515 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 235/60 R18 
+20:38:32.515 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 265/60 R18 
+20:38:32.515 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 265/60 R18 
+20:38:32.515 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV A/T LT 31x10.5 R15 
+20:38:32.517 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Terramax ARV A/T, size:LT 31x10.5 R15
+20:38:32.517 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV A/T LT 31x10.5 R15 
+20:38:32.517 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/70 R16 
+20:38:32.517 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/70 R16 
+20:38:32.517 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/65 R17 
+20:38:32.517 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/65 R17 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T LT 285/70 R17 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T LT 285/70 R17 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 255/60 R18 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 255/60 R18 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/60 R18 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/60 R18 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/50 R20 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/50 R20 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 275/55 R20 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 275/55 R20 
+20:38:32.518 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak M/T LT 285/70 R17 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak M/T LT 285/70 R17 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 185 R14c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 185 R14c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 195 R14c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 195 R14c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 195 R15c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 195 R15c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 195/70 R15c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 195/70 R15c 
+20:38:32.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 205/70 R15c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 205/70 R15c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 215/70 R15c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 215/70 R15c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 235/65 R16c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 235/65 R16c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-X 215/70 R16c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-X 215/70 R16c 
+20:38:32.520 [main] INFO  com.sjq.FeilvbinDingdan - write file:./菲律宾订单资料增加code/菲律宾.xlsx
+20:38:33.494 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾.xlsx end 
+20:38:33.494 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾新订单Arivo 06-10-2024GKILGIUGGI.xlsx start
+20:38:33.495 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾新订单Arivo 06-10-2024GKILGIUGGI.xlsx
+20:38:33.519 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾新订单Arivo 06-10-2024GKILGIUGGI.xlsx 的数据总数:107
+20:38:33.519 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/65 R13 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/65 R13 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/80 R13 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/80 R13 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/65 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/70 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/70 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/70 R14 
+20:38:33.520 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/70 R14 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/70 R14 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/70 R14 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/50 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 175/55 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 175/55 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/55 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/55 R15 
+20:38:33.521 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/55 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/55 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/55 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/55 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 165/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 165/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/60 R15 
+20:38:33.522 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/60 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 215/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 215/65 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/70 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/70 R15 
+20:38:33.523 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 185/55 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 185/55 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 195/60 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 195/60 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 205/65 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 205/65 R16 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 215/60 R17 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 215/60 R17 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 225/60 R17 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 225/60 R17 
+20:38:33.524 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 PREMIO ARZ1 225/65 R17 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 PREMIO ARZ1 225/65 R17 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 195/45 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 195/45 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/45 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/45 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 195/50 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 195/50 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/50 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/50 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/55 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/55 R16 
+20:38:33.525 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/40 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/40 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 215/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 215/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 225/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 225/45 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 205/50 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 205/50 R17 
+20:38:33.526 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 215/50 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 215/50 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 225/50 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 225/50 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 215/55 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 215/55 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 225/55 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 225/55 R17 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 215/40 R18 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 215/40 R18 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 225/40 R18 
+20:38:33.527 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 225/40 R18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 235/40 R18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 235/40 R18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 215/45 R18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 215/45 R18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 235/45 ZR18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 235/45 ZR18 
+20:38:33.528 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 225/50 R18 
+20:38:33.528 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:ULTRA ARZ5, size:225/50 R18
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 225/50 R18 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 235/50 R18 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 235/50 R18 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 225/55 R18 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 225/55 R18 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 235/35 R19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 235/35 R19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/35 R19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/35 R19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/40 ZR19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/40 ZR19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ4 235/45 ZR19 
+20:38:33.529 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ4 235/45 ZR19 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 235/50 R19 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 235/50 R19 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/35 R20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/35 R20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 275/35 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 275/35 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/40 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/40 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA Sport ARV7 275/40 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA Sport ARV7 275/40 ZR20 
+20:38:33.530 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 245/45 ZR20 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 245/45 ZR20 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA ARZ5 255/45 ZR20 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA ARZ5 255/45 ZR20 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA Sport ARV7 285/45 R22 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA Sport ARV7 285/45 R22 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 ULTRA Sport ARV7 305/45 R22 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 ULTRA Sport ARV7 305/45 R22 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 265/70 R15 
+20:38:33.531 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 265/70 R15 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 265/70 R16 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 265/70 R16 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 235/60 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 235/60 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Traverso ARV H/T 255/65 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Traverso ARV H/T 255/65 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 265/65 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 265/65 R17 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 235/60 R18 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 235/60 R18 
+20:38:33.532 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terrano ARV H/T 265/60 R18 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terrano ARV H/T 265/60 R18 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV A/T LT 31x10.5 R15 
+20:38:33.533 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Terramax ARV A/T, size:LT 31x10.5 R15
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV A/T LT 31x10.5 R15 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T LT 245/70 R16 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T LT 245/70 R16 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/70 R16 
+20:38:33.533 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/70 R16 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/65 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/65 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/70 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/70 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T LT 285/70 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T LT 285/70 R17 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 255/60 R18 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 255/60 R18 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 265/60 R18 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 265/60 R18 
+20:38:33.534 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 275/65 R18 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 275/65 R18 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T LT 285/65 R18 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T LT 285/65 R18 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 275/55 R20 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 275/55 R20 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Terramax ARV PRO A/T 285/55 R20 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Terramax ARV PRO A/T 285/55 R20 
+20:38:33.535 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak M/T LT 31x10.5 R15 
+20:38:33.536 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Rock Trak M/T, size:LT 31x10.5 R15
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak M/T LT 31x10.5 R15 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak M/T LT 235/75 R15 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak M/T LT 235/75 R15 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak M/T LT 285/70 R17 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak M/T LT 285/70 R17 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T 265/65 R17 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T 265/65 R17 
+20:38:33.536 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T 265/60 R18 
+20:38:33.537 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T 265/60 R18 
+20:38:33.537 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T 265/65 R18 
+20:38:33.537 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T 265/65 R18 
+20:38:33.537 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T LT 285/55 R20 
+20:38:33.537 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T LT 285/55 R20 
+20:38:33.538 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T LT 31x10.5 R15 
+20:38:33.538 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Rock Trak R/T, size:LT 31x10.5 R15
+20:38:33.538 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T LT 31x10.5 R15 
+20:38:33.538 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T LT 33x12.5 R15 
+20:38:33.538 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Rock Trak R/T, size:LT 33x12.5 R15
+20:38:33.538 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T LT 33x12.5 R15 
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T LT 35x12.5 R17 
+20:38:33.539 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Rock Trak R/T, size:LT 35x12.5 R17
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T LT 35x12.5 R17 
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Rock Trak R/T LT 33x12.5 R20 
+20:38:33.539 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Rock Trak R/T, size:LT 33x12.5 R20
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Rock Trak R/T LT 33x12.5 R20 
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-M 155 R12c 
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-M 155 R12c 
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-M LT 175 R13 
+20:38:33.539 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Transito ARZ 6-M, size:LT 175 R13
+20:38:33.539 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-M LT 175 R13 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-M LT 165 R14 
+20:38:33.540 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Transito ARZ 6-M, size:LT 165 R14
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-M LT 165 R14 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-M LT 175 R14 
+20:38:33.540 [main] WARN  com.sjq.FeilvbinDingdan - 通过size找不到 not found product with type:Transito ARZ 6-M, size:LT 175 R14
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-M LT 175 R14 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 185 R14c 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 185 R14c 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 195 R14c 
+20:38:33.540 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 195 R14c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 195 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 195 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 215/70 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 215/70 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 225/70 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 225/70 R15c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 205/65 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 205/65 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-C 235/65 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-C 235/65 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 开始处理数据 Transito ARZ 6-X 215/70 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - 结束处理数据 Transito ARZ 6-X 215/70 R16c 
+20:38:33.541 [main] INFO  com.sjq.FeilvbinDingdan - write file:./菲律宾订单资料增加code/菲律宾新订单Arivo 06-10-2024GKILGIUGGI.xlsx
+20:38:33.623 [main] INFO  com.sjq.FeilvbinDingdan - read file:菲律宾新订单Arivo 06-10-2024GKILGIUGGI.xlsx end 
+20:38:33.624 [main] INFO  com.sjq.FeilvbinDingdan - 菲律宾订单生成软件--运行结束
